@@ -1,2 +1,5 @@
-# jim-test11-roles-bootcamp
-Bootcamp Repository for Cyber Security Analyst (roles) - Student: jim-test11
+# Cyber Security Analyst Bootcamp
+
+Student: @jim-test11
+
+AI-Guided roadmap and instructions.
